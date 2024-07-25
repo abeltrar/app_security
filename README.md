@@ -10,6 +10,7 @@
 - Recuperación de información de vulnerabilidades marcadas.
 - Recuperación de todas las vulnerabilidades.
 - Eliminación de alguna vulnerabilidad.
+- Ejecución URL local para documentación: http://127.0.0.1:8000/swagger/
 
 # Seguridad
 
